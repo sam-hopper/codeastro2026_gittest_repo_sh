@@ -4,8 +4,4 @@ second
 
 third
 
-<<<<<<< HEAD
 local change
-=======
-remote change
->>>>>>> 287877baa046ce2965f5833bb651080b78700787
