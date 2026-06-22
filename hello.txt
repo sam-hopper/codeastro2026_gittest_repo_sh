@@ -7,3 +7,4 @@ third
 local change
 
 improving a conflict
+creating a conflict
